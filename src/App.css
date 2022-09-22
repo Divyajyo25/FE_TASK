@@ -1,0 +1,234 @@
+.headerbtn{
+  background-color: white;
+  border: white;
+  height: 70px;
+  padding: 20px 20px 20px 20px;
+  font-size: 16px;
+}
+
+.headerbtn:hover{
+  background-color: #F7F7F7;
+}
+
+.btngroup{
+  position: relative;
+  left: 163px;
+}
+
+.searchimg{
+  height: 15px;
+  width: 15px;
+  position: relative;
+  top: -50px;
+  left: 1000px;
+}
+
+.settingsimg{
+  height: 15px;
+  width: 15px;
+  position: relative;
+  top: -74px;
+  left: 1060px;
+}
+
+.connectbtn{
+  background-color: #18C683;
+  border: white;
+  border-radius: 18px;
+  color: white;
+  position:relative;
+  left: 1130px;
+  top: -100px;
+  width: 140px;
+  height: 37px;
+  font-size: 15px;
+  font-weight: 700;
+  box-shadow: 0px 0px 40px 8px #DDDDDD;
+}
+
+.connectbtn:hover, .connectbtn:focus{
+  transform: translateY(-0.25em);
+}
+
+.header.container{
+  background-color: white;
+}
+
+.container{
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  padding-top: 20px;
+  font-weight:600;
+}
+
+.main{
+  background-image: linear-gradient(to right, #4053B6 , #63B2F4);
+  height: 218px;
+  position: relative;
+  top: -84px;
+}
+
+.bg{
+  background-color: #ECEFF1;
+  position: relative;
+  top: -84px;
+  height: 100%;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+.mainTable .mytable{
+  background-color: white;
+  border-radius: 5px 0px 0px 0px;
+  width: 78%;
+  margin: 0 auto;
+  position: relative;
+  top: -148px;
+  box-shadow: 0px 161px 30px 10px rgb(182, 182, 182);
+}
+
+.mainTable .mytable .data :hover{
+  background-color: #FFFFFF;
+}
+
+.mainTable .mytable .rank{
+  text-align: right;
+  font-weight: 400;
+}
+
+.mainTable .mytable .name{
+  text-align: left;
+  padding-left: 50px;
+  height: 60px;
+}
+
+.mainTable .mytable .price{
+  text-align: right;
+}
+
+.mainTable .mytable .marketCap{
+ text-align: right; 
+}
+
+.mainTable .mytable .vwap{
+  text-align: right;
+}
+
+.mainTable .mytable .supply{
+  text-align: right;
+}
+
+.mainTable .mytable .volume{
+  text-align: right;
+}
+
+.mainTable .mytable .change{
+  /* text-align: right;
+  padding-right: 10px; */
+  position: relative;
+  top: 16px;
+  left: 50px;
+}
+
+.mainTable .mytable .rank1{
+  text-align: right;
+  font-weight: 400;
+  font-size: 12px;
+  height: 45px;
+  background-color: #FAFAFA;
+  border-radius: 5px;
+}
+
+.mainTable .mytable .name1{
+  text-align: left;
+  padding-left: 50px;
+  font-weight: 400;
+  font-size: 12px;
+  height: 45px;
+  background-color: #FAFAFA;
+  border-radius: 5px;
+}
+
+.mainTable .mytable .price1{
+  text-align: right;
+  font-weight: 400;
+  font-size: 12px;
+  height: 45px;
+  background-color: #FAFAFA;
+  border-radius: 5px;
+}
+
+.mainTable .mytable .marketCap1{
+  text-align: right;
+  font-weight: 400;
+  font-size: 12px;
+  height: 45px;
+  background-color: #FAFAFA;
+  border-radius: 5px;
+}
+
+.mainTable .mytable .vwap1{
+  text-align: right;
+  font-weight: 400;
+  font-size: 12px;
+  height: 45px;
+  background-color: #FAFAFA;
+  border-radius: 5px;
+}
+
+.mainTable .mytable .supply1{
+  text-align: right;font-weight: 400;
+  font-size: 12px;
+  height: 45px;
+  background-color: #FAFAFA;
+  border-radius: 5px;
+}
+
+.mainTable .mytable .volume1{
+  text-align: right;
+  font-weight: 400;
+  font-size: 12px;
+  height: 45px;
+  background-color: #FAFAFA;
+  border-radius: 5px;
+}
+
+.mainTable .mytable .change1{
+  text-align: right;
+  padding-right: 10px;
+  font-weight: 400;
+  font-size: 12px;
+  height: 45px;
+  background-color: #FAFAFA;
+  border-radius: 5px;
+}
+
+.data{
+  border: solid #ECEFF1;
+  border-width: 1px 0;
+}
+
+.image{
+  height: 30px;
+  width: 30px;
+}
+
+.viewmore{
+  background-color: #18C683;
+  border: white;
+  border-radius: 18px;
+  color: white;
+  width: 140px;
+  height: 37px;
+  font-size: 15px;
+  font-weight: 700;
+  box-shadow: 0px 0px 40px 8px #DDDDDD;
+  margin-top: 16px;
+}
+
+.lastrow{
+  height: 70px;
+}
+
